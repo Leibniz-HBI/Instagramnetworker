@@ -1,6 +1,6 @@
 # IgNet - Instagram Networker
 
-The Instagram Networker is a python based scraper for revealing a network structure between users on Instagram. The app has the aim to start with one initial user that you can choose from, scrape a chosen amount of followings/followers and scrape their user data. This program is only for public accounts and will recognize private accounts and skip these! 
+The Instagram Networker is a python based scraper for revealing a network structure between users on Instagram. The app has the aim to start with one initial user that you can choose from, scrape a chosen amount of followings/followers and extract their user data. This program is only for public accounts and will recognize private accounts and skip these! 
 
 ### Status of the Program:
 
