@@ -4,15 +4,12 @@ The Instagram Networker is a python based scraper for revealing a network struct
 
 ### Status of the Program:
 
-At the moment you can chose from an initial user account to start and also you can manage the amount of followers/followings to look at. It will save a json file with the initial users data (username, Name, User ID, Number of Followers/Followings) and the links to the the followers and followings. After this step it will visit the the numbers of followings/followers in that List and create the same  json for them. This is a basic loop that is created and can gather massive amounts of information in a short period of time.
-
-
-
+At the moment you can chose from an initial user account to start and also you can manage the amount of followers/followings to look at. It will save a json file with the initial users data (username, Name, User ID, Number of Followers/Followings) and the links to the the followers and followings. After this step it will visit the the numbers of followings/followers in that list and create the same  json for them. This is a basic loop that is created and can gather massive amounts of information in a short period of time.
 
 
 ### Upcoming Features:
 
-The goal someday is, to be able to categorize the scraped user accounts into Themes like “Sports“, “Gaming“ or “Politician“. This way we could reveal connections between different Users and communities on Instagram.
+The goal someday is, to be able to categorize the scraped user accounts into themes like “Sports“, “Gaming“ or “Politician“. This way we could reveal connections between different Users and communities on Instagram.
 It is also the aim to add a live plot showing different statistics that can be viewed interactively 
 Adding a comment + reply scraper
 Adding hashtag/word analysis possibilities
