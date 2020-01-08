@@ -1,0 +1,21 @@
+loginUrl = 'https://www.instagram.com/accounts/login/'
+scraperStartProfileUrl = 'https://www.instagram.com/YOURSTARTINGPROFILE/'
+usernameInputElementNameToLookFor = 'username'
+emailInputElementNameToLookFor = 'password'
+pythonParserUsedByBS4 = 'lxml'
+metaTagName = 'meta'
+propertyKeyName = 'property'
+propertyValueName = 'og:description'
+contentPropertyName = 'content'
+scriptTagName = 'script'
+userIdStringToLookFor = 'profilePage_'
+driverFileName = '/geckodriver'
+loginUser = 'YOURUSERNAME
+loginPassword = 'YOURPASSWORD'
+listElement = 'div[role=\'dialog\'] ul'
+username = ''
+secondsToWait = 8
+followersAmount = 0
+followingsAmount = 0
+privateAccount = False
+maximumFollowerToLookAt = 12  # this is actually always 12*x with x>0... (same for followings)      (ಠ‿↼) TODO
