@@ -9,8 +9,7 @@ At the moment you can chose from an initial user account to start and also you c
 
 ### Upcoming Features:
 
-The goal someday is, to be able to categorize the scraped user accounts into themes like “Sports“, “Gaming“ or “Politician“. This way we could reveal connections between different Users and communities on Instagram.
-It is also the aim to add a live plot showing different statistics that can be viewed interactively 
+the aim to add a live plot showing different statistics that can be viewed interactively 
 Adding a comment + reply scraper
 Adding hashtag/word analysis possibilities
 Search for a hashtag and scrape the users using it
@@ -34,7 +33,7 @@ After this, enter this following line:
 
 It will automatically take all the information within the delivered pipfile and install these credentials within your personal environment. 
 
-**4.** Download the needed geckodriver for your operating sysrem,  from the geckodriver folder wihtin this repo. Make sure to ave the file in the same folder as the main.py file. 
+**4.** Download the needed geckodriver for your operating sysrem,  from the geckodriver folder wihtin this repo. Make sure to save the file in the same folder as the main.py file. 
 
 **5.** After installing your environment, you can open the static_data_file.py with a text editor of your choice. In this file you will need to provide your login credentials and essentially: the initial user account to start with and the amount of followers/followings you want to look at.
 Taken together these 5 lines need your attention:
