@@ -37,7 +37,9 @@ After this, enter this following line:
 
 It will automatically take all the information within the delivered pipfile and install these credentials within your personal environment. 
 
-**4.** After installing your environment, you can open the static_data_file.py with a text editor of your choice. In this file you will need to provide your login credentials and essentially: the initial user account to start with and the amount of followers/followings you want to look at.
+**4.** Download the needed geckodriver for your operating sysrem,  from the geckodriver folder wihtin this repo. Make sure to ave the file in the same folder as the main.py file. 
+
+**5.** After installing your environment, you can open the static_data_file.py with a text editor of your choice. In this file you will need to provide your login credentials and essentially: the initial user account to start with and the amount of followers/followings you want to look at.
 Taken together these 5 lines need your attention:
 
 	scraperStartProfileUrl = 'https://www.instagram.com/INITIALSERACCOUNT'
@@ -48,13 +50,13 @@ Taken together these 5 lines need your attention:
 
 If you want to only look at the followers or the followings you can go ahead and leave the one you don’t want at 0. Whenever you have you file set, save it. 
 
-**5.** Switch back to you command line and and enter
+**6.** Switch back to you command line and and enter
 
 `pipenv run python main.py`
 
 It should now open a firefox window starting the login and scrape process like a human being would do it. If you don’t want to see this window, you can simply go into the main.py file and edit line 26 ‘options.headless = False’ to ’options.headless = True’. It will do the process in the background. 
 
-**6.** Whenever done with the process, the application will create a folder called ‚Outputs’ and save all the .json files within this folder. 
+**7.** Whenever done with the process, the application will create a folder called ‚Outputs’ and save all the .json files within this folder. 
 
 ### Workarounds at Timeouts:
 
