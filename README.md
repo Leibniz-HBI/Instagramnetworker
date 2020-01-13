@@ -9,10 +9,10 @@ At the moment you can chose from an initial user account to start and also you c
 
 ### Upcoming Features:
 
-the aim to add a live plot showing different statistics that can be viewed interactively <br>
-Adding a comment + reply scraper <br>
-Adding hashtag/word analysis possibilities <br>
-Search for a hashtag and scrape the users using it <br>
+* the aim to add a live plot showing different statistics that can be viewed interactively <br>
+* Adding a comment + reply scraper <br>
+* Adding hashtag/word analysis possibilities <br>
+* Search for a hashtag and scrape the users using it <br>
 
 ### How to Use:
 
