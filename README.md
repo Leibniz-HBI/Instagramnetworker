@@ -44,7 +44,7 @@ Taken together these 5 lines need your attention:
 	followersAmount = 0
 	followingsAmount = 5
 
-If you want to only look at the followers or the followings you can go ahead and leave the one you don’t want at 0. Whenever you have you file set, save it. 
+If you want to only look at the followers or the followings you can go ahead and leave the one you don’t want at 0. Whenever you have you file ready, make sure to save it. 
 
 **6.** Switch back to you command line and and enter
 
