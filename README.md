@@ -33,7 +33,7 @@ After this, enter this following line:
 
 It will automatically take all the information within the delivered pipfile and install these credentials within your personal environment. 
 
-**4.** Download the needed geckodriver for your operating sysrem,  from the geckodriver folder wihtin this repo. Make sure to save the file in the same folder as the main.py file. 
+**4.** Download the needed geckodriver for your operating system,  from the geckodriver folder wihtin this repo. Make sure to save the file in the same folder as the main.py file. 
 
 **5.** After installing your environment, you can open the static_data_file.py with a text editor of your choice. In this file you will need to provide your login credentials and essentially: the initial user account to start with and the amount of followers/followings you want to look at.
 Taken together these 5 lines need your attention:
